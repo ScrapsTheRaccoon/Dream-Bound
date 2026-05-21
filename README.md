@@ -1,5 +1,5 @@
 ## Dreambound
-A 3D platformer built in Unity with C#, where you race through dream-like levels collecting gems and dodging falling bombs before time runs out.
+A 3D platformer built in **Unity** with **C#**, where you race through dream-like levels collecting gems and dodging falling bombs before time runs out.
 > **Note:** Started from a tutorial base, then adapted to a newer Unity version, extended with custom systems (bomb mechanics, camera flipping, knockback), and more features planned.
 
 🎮 Play it here: [Dreambound on itch.io](https://mischief-labs.itch.io/dream-bound)
