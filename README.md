@@ -31,3 +31,4 @@ Fade-in and fade-out panels handle transitions between the main menu, levels, an
 - More levels
 
 ## Preview
+![Gameplay GIF](Media/preview.gif)
